@@ -2,14 +2,18 @@
 Hello all, my name is Chase Gurcan and I am a graduate student at Clemson University. 
 I will graduate in May 2021 with a Master of Science for Automotive Engineering with an emphasis of autonomy. 
 In this repositiry you will find all the coursework content created over the duration of the class: Autonomy Science and Systems. I hope you enjoy!"
+
 Attached is my resume, please take a look!
 
 Chase T. Gurcan
 660 Halton Road, Greenville, South Carolina, 29607, 631-612-4038
+
 EDUCATION
 Clemson University, Greenville, SC                					          Current 
 Master of science, Automotive Engineering with a concentration in autonomy, sensors, and perception  
 GPA: 3.41/4.0
+
+
 Assumption College, Worcester, Massachusetts             				       May 2019
 Bachelor of Arts, Major: Applied Mathematics and Engineering Sciences      
 Dean’s List                                			           Spring 2016, Fall 2018, Spring 2019
