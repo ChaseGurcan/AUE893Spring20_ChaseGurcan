@@ -17,21 +17,34 @@ GPA: 3.41/4.0
 
 
 Assumption College, Worcester, Massachusetts             				       May 2019
+
+
 Bachelor of Arts, Major: Applied Mathematics and Engineering Sciences      
 Dean’s List                                			           Spring 2016, Fall 2018, Spring 2019
+
+
 Merit Scholarship of 18,500$ Paired with 3,000$ Athletic Scholarship      Fall 2015-Spring 2019 
  
 EXAMPLE COUSEWORK: 
+
 Machine Perception and Intelligence 
+
 Autonomous Driving Technologies 
+
 Autonomy: Science and Systems 
+
 Motion Planning 
 
 EXPERIENCE:
+ 
  Standard Industrial Works, Bay Shore, NY       			       May 2018- August 2018
+ 
  Engineering Intern
+ 
  • Engineered under supervision of project managers of large steel manufacturing company
+ 
  • Inquired great experience and knowledge of a high paced manufacturing setting.
+ 
  • Heavy focus on implementing 3D designing and manufacturing  
  
 SJS Construction, Bay Shore, NY                        			        June 2014-August 2018 
