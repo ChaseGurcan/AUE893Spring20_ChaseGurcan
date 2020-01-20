@@ -6,11 +6,13 @@ In this repositiry you will find all the coursework content created over the dur
 Attached is my resume, please take a look!
 
 Chase T. Gurcan
+
 660 Halton Road, Greenville, South Carolina, 29607, 631-612-4038
 
 EDUCATION
 Clemson University, Greenville, SC                					          Current 
-Master of science, Automotive Engineering with a concentration in autonomy, sensors, and perception  
+
+Master of science, Automotive Engineering with a concentration in autonomy  
 GPA: 3.41/4.0
 
 
