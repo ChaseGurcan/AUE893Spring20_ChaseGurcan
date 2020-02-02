@@ -1,0 +1,3 @@
+This assignment was to create a code that would make the turtle in turtlesim go in a circle and square respectively. 
+The circle code will coontinue to run until commanded otherwise.
+The square code will run for one whole square or until the range has been satisfied.
